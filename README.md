@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micugamer&label=Profile%20views&color=0e75b6&style=flat" alt="micugamer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micugamer" alt="micugamer" /></a> </p>
-
 - 🔭 I’m currently working on **ChatGPT Clone**
 
 - 🌱 I’m currently learning **C++ and React**
